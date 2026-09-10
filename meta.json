@@ -1,8 +1,8 @@
 {
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "michaellee1019:palletizer-102-2",
+  "url": "https://github.com/michaellee1019/palletizer-102",
   "visibility": "private",
-  "url": "",
   "description": "Modular generic service: palletizer",
   "applications": null,
   "markdown_link": "README.md",
